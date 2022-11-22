@@ -1,1 +1,1 @@
-# js-study
+# js without class
